@@ -1,0 +1,7 @@
+opencv-python==4.7.0.72
+numpy==1.24.3
+ultralytics==8.0.145  # For YOLOv8
+torch>=2.0.0
+torchvision>=0.15.1
+matplotlib==3.7.1
+scikit-learn==1.2.2 
