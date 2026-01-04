@@ -61,3 +61,6 @@ desktop.ini
 .env
 .env.local
 
+# Project documentation (personal notes, not for public)
+PROJECT_SUMMARY.md
+
